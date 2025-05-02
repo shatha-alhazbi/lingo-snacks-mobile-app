@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-LingoSnacks is a mobile application designed to aid language learning through interactive, game-like activities for students and a learning package editor for teachers. This project is the Phase 2 implementation, where both the Learning Package Editor and LingoSnacks App are integrated into a single solution. The app allows teachers to create and manage learning packages, while students can download these packages and engage in various interactive learning activities such as flashcards, unscramble sentences, and matching words with definitions.
+LingoSnacks was a part of a group project for my Mobile App Development course at Qatar University. It is a mobile application designed to aid language learning through interactive, game-like activities for students and a learning package editor for teachers. This project is the Phase 2 implementation, where both the Learning Package Editor and LingoSnacks App are integrated into a single solution. The app allows teachers to create and manage learning packages, while students can download these packages and engage in various interactive learning activities such as flashcards, unscramble sentences, and matching words with definitions.
 
 ## Features
 
@@ -35,6 +35,4 @@ LingoSnacks is a mobile application designed to aid language learning through in
 - **Firestore**: Data is stored in Firestore for online access, including learning packages, multimedia content, and user details.
 - **SQLite Database**: Local storage is used for offline usage, ensuring that students can use the app without an internet connection.
 
-### Screenshots
 ![App Screenshot 1](Screenshots/screenshot1.png)
-![App Screenshot 2](Screenshots/screenshot2.png)
