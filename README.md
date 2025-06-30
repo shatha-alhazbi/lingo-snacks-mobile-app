@@ -35,4 +35,3 @@ LingoSnacks was a part of a group project for my Mobile App Development course a
 - **Firestore**: Data is stored in Firestore for online access, including learning packages, multimedia content, and user details.
 - **SQLite Database**: Local storage is used for offline usage, ensuring that students can use the app without an internet connection.
 
-![App Screenshot 1](Screenshots/screenshot1.png)
